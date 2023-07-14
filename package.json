@@ -1,17 +1,14 @@
 {
   "name": "randimg",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "private": false,
   "description": "Api for getting random images",
   "main": "index.js",
   "type": "module",
-  "repository": {
-    "type": "git",
-    "url": "github.com/readyyyk/socketapi"
-  },
   "keywords": [
     "random",
     "image"
   ],
-  "author": "@raedyk",
+  "author": "raedyk",
   "license": "MIT"
 }
