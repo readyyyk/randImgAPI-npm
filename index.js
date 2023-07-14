@@ -37,7 +37,7 @@ class HashMapApi {
     /**
      * Returns link with provided:
      * @constructor
-     * @param model {"picsum" | "hashmaps"} - service to use
+     * @param model {"picsum" | "hashmap"} - service to use
      * @param [seed="Unix_nano"] {string} - seed to generate
      * @param [width] {number} - width in pixels
      * @param [height] {number} - height in pixels
